@@ -7,3 +7,8 @@ Enable permissions and APIs for Agentspace Onboarding
 2 - Create a new table in the dataset above. This example uses the dataset name “qna”.
 3 - Upload your evaluation data to the table above. This example uses a dataset with the columns “target”, “question”, and “article”, but you can specify your own column names and schema.
 
+
+
+
+
+Reference (private) - https://docs.google.com/document/d/16a5Y8MNT7W0pn84X3FFMEGKTYL7wpYYSaqYna7BCjaM/edit?usp=sharing
